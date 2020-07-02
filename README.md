@@ -4,11 +4,10 @@
  
  All three examples use the **config.cfg** which will need to be populated with your credentials e.g.
  
-**[session]
-app_key = 0abcdd13bf27478987d1c75f2c5fd8fc469123b2
-user = GE-A-01234567-8-9101
-password = thisisMyDummyPassword12345#
-**
+**[session]**
+**app_key = 0abcdd13bf27478987d1c75f2c5fd8fc469123b2**
+**user = GE-A-01234567-8-9101**
+**password = thisisMyDummyPassword12345#**
 (The above are dummy values)
 
 For a desktop session - i.e. connecting to your locally running Eikon Desktop or Refinitiv Workspace, you only need to supply an AppKey - which you can generate using the AppKey generator built into Eikon and Workspace - search for AppKey in the Eikon or Workspace
